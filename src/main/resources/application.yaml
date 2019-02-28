@@ -1,0 +1,4 @@
+# 关闭权限验证
+management:
+  security:
+    enabled: false
